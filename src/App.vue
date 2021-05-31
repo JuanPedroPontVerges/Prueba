@@ -19,7 +19,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+
 import { Token } from "./Token";
 export default defineComponent({
   name: "App",
